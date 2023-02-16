@@ -59,13 +59,13 @@ height: 38px;
 }
 .first-block {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 35px;
     
 }
 /* secomd block */
 .second-block {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 35px;
 }
 /* last block */
 .last-block {
