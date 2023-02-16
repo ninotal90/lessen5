@@ -11,6 +11,9 @@
     display: inline-block;
     font-family: 'Helvetica';
 }
+.girl {
+    padding-top: 10px;
+}
 .black {
     color: #343638;
 }
