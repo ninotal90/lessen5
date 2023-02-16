@@ -4,8 +4,12 @@
     margin-right: 90px;
     margin-left: 19px;
 }
+.color {
+    background-color: #F6F8F9;
+}
 .navigation {
     display: inline-block;
+    font-family: 'Helvetica';
 }
 .active {
     color: #343638;
@@ -25,6 +29,7 @@
     font-size: 24px;
     padding-right: 134px;
     padding-bottom: 40px;
+    font-family: 'Helvetica';
 
 }
 .main-div {
@@ -38,18 +43,29 @@
 }
 /* first block */
 .text1 {
- width: 281px;
- height: 38px;
+ width: 360px;
+ height: 180px;
  font-size: 13px;
  line-height: 23px;
  text-align: left;
+ padding: 50px 25px 40px 20px;
+ background-color: #FFFFFF;
+ font-family: 'acumin pro';
+ 
+}
+.loren {
+width: 281px;
+height: 38px;
 }
 .first-block {
     display: inline-block;
+    margin-right: 10px;
+    
 }
 /* secomd block */
 .second-block {
     display: inline-block;
+    margin-right: 10px;
 }
 /* last block */
 .last-block {
